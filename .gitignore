@@ -4,7 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Solution ignore 20201109 junshimura
-*.sln
+# *.sln
 
 # User-specific files
 *.rsuser
